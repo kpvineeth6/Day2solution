@@ -1,3 +1,5 @@
+#day_2_problem-8
+
 def findTheSum(alpha):
     score = 0
     for i in range(0, len(alpha)):
